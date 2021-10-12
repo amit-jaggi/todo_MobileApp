@@ -165,7 +165,7 @@ input{
 
 
 /* Moto G4 Responsive */
-@media screen and (max-width: 360px){
+@media screen and (min-width: 359px) and (max-width: 599px){
     .container{
         width: 80%;
         height: 480px;
